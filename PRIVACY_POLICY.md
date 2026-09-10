@@ -95,8 +95,6 @@ We may update this Privacy Policy periodically to reflect technological updates,
 ---
 
 ## 11. Contact Us
-
 If you have any questions, concerns, feedback, or inquiries regarding this Privacy Policy or our data practices, please contact us at:
-
-- **Email:** [support@cardiorunner.app](mailto:support@cardiorunner.app)  
-- **Project Repository & Issues:** [https://github.com/](https://github.com/) *(Refer to official project repository)*  
+- **Email:** [gaelidonesamiento@gmail.com](mailto:gaelidonesamiento@gmail.com)  
+- **Project Repository & Issues:** [https://github.com/gaelidone/cardiorunner-legal/](https://github.com/gaelidone/cardiorunner-legal/) *(Refer to official project repository)*
