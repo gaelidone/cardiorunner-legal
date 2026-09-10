@@ -134,5 +134,5 @@ We reserve the right, at our sole discretion, to modify, update, or replace thes
 
 For technical support, inquiries, or legal notifications regarding these Terms and Conditions of Use, please reach out to:
 
-- **Email:** [support@cardiorunner.app](mailto:support@cardiorunner.app)  
-- **Project Repository & Issues:** [https://github.com/](https://github.com/) *(Refer to official project repository)*  
+- **Email:** [gaelidonesamiento@gmail.com](mailto:gaelidonesamiento@gmail.com)  
+- **Project Repository & Issues:** [https://github.com/gaelidone/cardiorunner-legal/](https://github.com/gaelidone/cardiorunner-legal/) *(Refer to official project repository)*
